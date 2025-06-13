@@ -34,7 +34,7 @@ Output: anger
 - `train_extended.txt` – Labeled training data
 - `README.md` – Project overview and instructions
 
-## ✨ Future Improvements
+##  Future Improvements
 - Upgrade to deep learning models like BERT
 - Add real-time web interface using Streamlit
 - Expand dataset with real-world sentences
